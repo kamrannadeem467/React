@@ -7,7 +7,7 @@
         "price": "$8000",
         "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
         "brand": "Habbit",
-        "image": "../../../public/img/sofa (1).jpeg"
+        "image": "../../../public/img/sofa-(1).jpeg"
     },
     {
         "id": 1,
@@ -16,7 +16,7 @@
         "price": "$8000",
         "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
         "brand": "Habbit",
-        "image": "../../../public/img/sofa (2).jpeg"
+        "image": "../../../public/img/sofa-(2).jpeg"
     },
     {
         "id": 2,
@@ -26,7 +26,7 @@
         "price": "$8000",
         "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
         "brand": "Habbit",
-        "image": "../../../public/img/sofa3.jpeg"
+        "image": "../../../public/img/sofa-3.jpeg"
     },
     {
         "id": 3,
